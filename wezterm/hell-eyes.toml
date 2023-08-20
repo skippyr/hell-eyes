@@ -1,0 +1,31 @@
+[metadata]
+name = "Hell Eyes"
+author = "Sherman Rofeman"
+origin_url = "https://github.com/skippyr/hell-eyes"
+[colors]
+background = "#100000"
+foreground = "#d1b96f"
+cursor_bg = "#d1b96f"
+cursor_fg = "#100000"
+selection_bg = "#d1b96f"
+selection_fg = "#100000"
+ansi = [
+    "#100000",
+    "#664f3a",
+    "#b34d00",
+    "#5e5a47",
+    "#7d2e2c",
+    "#940401",
+    "#75594a",
+    "#d1b96f"
+]
+brights = [
+    "#7d2e2c",
+    "#664f3a",
+    "#b34d00",
+    "#5e5a47",
+    "#7d2e2c",
+    "#940401",
+    "#75594a",
+    "#d1b96f"
+]

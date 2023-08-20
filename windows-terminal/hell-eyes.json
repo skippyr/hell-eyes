@@ -1,0 +1,23 @@
+{
+    "name": "Hell Eyes",
+    "background": "#100000",
+    "foreground": "#d1b96f",
+    "cursorColor": "#d1b96f",
+    "selectionBackground": "#d1b96f",
+    "black": "#100000",
+    "red": "#664f3a",
+    "green": "#b34d00",
+    "yellow": "#5e5a47",
+    "blue": "#7d2e2c",
+    "purple": "#940401",
+    "cyan": "#75594a",
+    "white": "#d1b96f",
+    "brightBlack": "#7d2e2c",
+    "brightRed": "#664f3a",
+    "brightGreen": "#b34d00",
+    "brightYellow": "#5e5a47",
+    "brightBlue": "#7d2e2c",
+    "brightPurple": "#940401",
+    "brightCyan": "#75594a",
+    "brightWhite": "#d1b96f"
+}
